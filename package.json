@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Official scoped OpenAPI specification for Strafe Bots and Automated Integrations. Use a bot token (strafe_bot_...) as a Bearer token.",
   "author": "Strafe Bot API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RUTUJEKWIELKI/Strafe.js.git"
+  },
   "type": "module",
   "sideEffects": false,
   "main": "./dist/cjs/index.js",
