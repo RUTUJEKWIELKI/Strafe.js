@@ -1,6 +1,6 @@
 {
   "name": "@strafe/strafe-bot-api",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Official scoped OpenAPI specification for Strafe Bots and Automated Integrations. Use a bot token (strafe_bot_...) as a Bearer token.",
   "author": "Strafe Bot API",
   "repository": {
